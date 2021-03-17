@@ -12,6 +12,7 @@ header{
     font-size: 175%;
 }
 a{
+    text-decoration: none;
     color: black;
 }
 a{
